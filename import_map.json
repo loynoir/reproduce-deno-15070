@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "colorette": "https://esm.sh/colorette@2.0.19"
+  }
+}
